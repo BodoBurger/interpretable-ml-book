@@ -12,9 +12,12 @@ Imports:
   data.table,
   mlr,
   rpart,
+  party,
   partykit,
   randomForest,
   gridExtra,
+  grid,
+  jpeg,
   caret,
   e1071,
   tm,
@@ -32,6 +35,13 @@ Imports:
   OneR, 
   RWeka,
   sbrl,
-  DiagrammeR
+  iml,
+  jtools,
+  mgcv,
+  devtools,
+  readr, 
+  Cairo,
+  viridis,
+  interactions
 Remotes: christophM/interpretable-ml-book
 
